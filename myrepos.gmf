@@ -1,7 +1,7 @@
 # myrepos.gmf
 
-# Perl core development
-- git://perl5.git.perl.org/perl.git
-
 # Log4perl project
 - git://github.com/mschilli/log4perl.git
+
+# Perl core development
+- git://perl5.git.perl.org/perl.git
